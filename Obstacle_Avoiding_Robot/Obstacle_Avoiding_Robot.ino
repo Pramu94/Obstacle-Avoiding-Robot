@@ -1,3 +1,10 @@
+/*
+ * Obstacle Avoiding Robot
+ * Merucury LABS
+ * @Author Ridma Pramuditha
+ * @Date 08/05/2023
+ *
+ */
 #include <Servo.h>          
 #include <NewPing.h>       
 
