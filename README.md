@@ -14,3 +14,7 @@ Obstacle Avoiding Robot based on Arduino. I hope to do step by step guide on mak
 | Ultrasonic Sensor  | https://bit.ly/3c9sE0m |
 | On Off Switch  | https://bit.ly/3c9sE0m |
 | 18650 Li-ion Rechargeable Battery  | https://bit.ly/3c9sE0m |
+
+
+## Support
+You can support my projects on [Buy me a coffee](https://www.buymeacoffee.com/pramuditharidma) and [Patreon](https://www.patreon.com/ridmapramuditha).
